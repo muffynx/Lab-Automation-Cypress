@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://robot-lab.onrender.com/api/auth/register",
+    "method": "POST",
+    "requestBody": {
+      "firstName": "Boss",
+      "lastName": "Tester",
+      "email": "test1759409350099@gmail.com",
+      "password": "password1234"
+    },
+    "responseBody": {
+      "_id": "68de74c883662f334eb894f3",
+      "firstName": "Boss",
+      "lastName": "Tester",
+      "email": "test1759409350099@gmail.com",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZGU3NGM4ODM2NjJmMzM0ZWI4OTRmMyIsImlhdCI6MTc1OTQwOTM1MywiZXhwIjoxNzU5NDEyOTUzfQ.OzjdibbPj3frbyIGIIWIS8QPbV9tzt034MRa8n7dXl4"
+    },
+    "statusCode": 201
+  }
+]

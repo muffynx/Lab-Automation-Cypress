@@ -1,0 +1,12 @@
+[
+  { "firstName": "User1", "lastName": "Test", "email": "user14@gmail.com", "password": "password1234" },
+  { "firstName": "User2", "lastName": "Test", "email": "user24@gmail.com", "password": "password1234" },
+  { "firstName": "User3", "lastName": "Test", "email": "user34@gmail.com", "password": "password1234" },
+  { "firstName": "User4", "lastName": "Test", "email": "user44@gmail.com", "password": "password1234" },
+  { "firstName": "User5", "lastName": "Test", "email": "user54@gmail.com", "password": "password1234" },
+  { "firstName": "User6", "lastName": "Test", "email": "user64@gmail.com", "password": "password1234" },
+  { "firstName": "User7", "lastName": "Test", "email": "user74@gmail.com", "password": "password1234" },
+  { "firstName": "User8", "lastName": "Test", "email": "user84@gmail.com", "password": "password1234" },
+  { "firstName": "User9", "lastName": "Test", "email": "user94@gmail.com", "password": "password1234" },
+  { "firstName": "User10", "lastName": "Test", "email": "user104@gmail.com", "password": "password1234" }
+]

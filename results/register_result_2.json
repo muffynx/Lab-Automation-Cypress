@@ -1,0 +1,11 @@
+{
+  "email": "user24@gmail.com",
+  "status": 201,
+  "body": {
+    "_id": "68de8290d8452b75698a965a",
+    "firstName": "User2",
+    "lastName": "Test",
+    "email": "user24@gmail.com",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZGU4MjkwZDg0NTJiNzU2OThhOTY1YSIsImlhdCI6MTc1OTQxMjg4MSwiZXhwIjoxNzU5NDE2NDgxfQ._f-NN2tAVFL1YamvbVpjMxKV_0Ha_hJAXxBVOTzX9PI"
+  }
+}
